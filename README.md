@@ -3,6 +3,8 @@ Repositório criado para acompanhamento da disciplina de Design de Software, min
 
 <b>Descrição:</b>
 <br>
+Projeto de aplicativo que indica filmes para o usuário, baseando-se em dados fornecidos pelos mesmos e informaria a plataforma onde esse filme poderá ser encontrado.
+Além disso, o aplicativo teria um registro de filmes já assistidos com um sistema de avaliação.
 
 <b>Discentes</b>
 <br>Bruna Do Espirito Santo Sousa,<br>
