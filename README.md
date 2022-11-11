@@ -16,7 +16,7 @@ Protótipo: https://www.figma.com/proto/3BouSZzPDmVwEkjrNSf8zA/app-muuvie?node-i
 <br>
 
 ## Discentes
-Bruna Do Espirito Santo Sousa, matrícula 202107999;<br>
+Bruna Do Espirito Santo Sousa - Matrícula 202107999;
 Joyce Beatriz Ferreira Da Costa Silva,<br>
 Layane Grazielle Souza Dias,<br>
 Pedro Ivo Santana Melo,<br>
