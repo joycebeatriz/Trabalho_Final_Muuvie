@@ -1,4 +1,4 @@
-# Muuvie
+# muuvie
 Repositório criado para acompanhamento da disciplina de Design de Software, ministrada pelo professor <i>Fabio Lucena</i>.
 
 <b>Descrição:</b>
