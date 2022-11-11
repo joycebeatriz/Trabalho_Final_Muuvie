@@ -15,7 +15,7 @@ Com uma interface simples e intuitiva, em pouco minutos a pessoa terá o filme p
 Protótipo: https://www.figma.com/proto/3BouSZzPDmVwEkjrNSf8zA/app-muuvie?node-id=344%3A6533&starting-point-node-id=344%3A6533
 <br>
 
-<b>Discentes</b>
+## Discentes
 <br>Bruna Do Espirito Santo Sousa, matrícula 202107999;<br>
 Joyce Beatriz Ferreira Da Costa Silva,<br>
 Layane Grazielle Souza Dias,<br>
