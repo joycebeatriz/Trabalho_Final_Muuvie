@@ -1,5 +1,5 @@
 # Muuvie
-Repositório criado para acompanhamento da disciplina de Design de Software, ministrada pelo professor Fabio Lucena.
+Repositório criado para acompanhamento da disciplina de Design de Software, ministrada pelo professor <i>Fabio Lucena</i>.
 
 <b>Discentes</b>
 <br>Bruna Do Espirito Santo Sousa,<br>
