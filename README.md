@@ -2,6 +2,8 @@
 Repositório criado para acompanhamento da disciplina de Design de Software, ministrada pelo professor <i>Fabio Lucena</i>.
 
 <b>Descrição:</b>
+Projeto de aplicativo que indica filmes para o usuário, baseando-se em dados fornecidos pelos mesmos e informaria a plataforma onde esse filme poderá ser encontrado. Além disso, o aplicativo teria um registro de filmes já assistidos com um sistema de avaliação.
+<br>
 
 Protótipo: https://www.figma.com/proto/3BouSZzPDmVwEkjrNSf8zA/app-muuvie?node-id=344%3A6533&starting-point-node-id=344%3A6533
 <br>
