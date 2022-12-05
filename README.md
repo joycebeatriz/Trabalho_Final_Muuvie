@@ -23,6 +23,6 @@ Pedro Ivo Santana Melo - Matrícula 202004776; <br>
 Pedro Paulo Oliveira Lopes - Matrícula 201905548
 
 ## Diagrama de contexto
-![Diagrama de contexto](diagramas/DiagramaDeContexto.jpg)
+[Diagrama de contexto](diagramas/DiagramaDeContexto.pdf)
 ## Diagrama de Contêiner
-![Diagrama de Conteiner](diagramas/DiagramaDeConteiner.jpg)
+[Diagrama de Conteiner](diagramas/DiagramaDeConteiner.pdf)
