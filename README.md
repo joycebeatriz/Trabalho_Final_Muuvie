@@ -12,7 +12,7 @@ A ideia do nosso projeto é criar um sistema onde as pessoas tenham indicações
 
 Com uma interface simples e intuitiva, em pouco minutos a pessoa terá o filme para assistir e ainda a possibilidade de avaliar se gostou ou não da sugestão, evitando assim ficar por horas procurando o filme ideal para assistir.
 
-Protótipo: https://www.figma.com/proto/3BouSZzPDmVwEkjrNSf8zA/app-muuvie?node-id=344%3A6533&starting-point-node-id=344%3A6533
+Protótipo: [Link de acesso ao figma](https://www.figma.com/proto/3BouSZzPDmVwEkjrNSf8zA/app-muuvie?node-id=344%3A6533&starting-point-node-id=344%3A6533)
 <br>
 
 ## Discentes
