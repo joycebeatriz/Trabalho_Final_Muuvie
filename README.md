@@ -8,7 +8,7 @@ O objetivo deste projeto e o desenvolvimento de um aplicativo que indica filmes 
 ## muuvie - Seu filme em alguns muu's
 Quem nunca se sentou na sala ou se deitou na cama e foi colocar um filme para assistir e se perguntou: _Qual o filme vou assistir hoje?_ E a partir desse momento você fica minutos, dependendo até horas passando por um catálogo até decidir o que assistir.
 
-A ideia do nosso projeto é criar um serviço para ser utilizado por Plataforma de Streams onde, com o recebimento de dados básicos demográficos de um determinado usuário e seu histórico de filmes assistidos, recomendaremosas o filme ideal para que o usuário assista.
+A ideia do nosso projeto é criar um serviço para ser utilizado por Plataforma de Streams. Neste serviço, através o recebimento de dados básicos demográficos de um determinado usuário e seu histórico de filmes assistidos, recomendaremos o filme ideal para que o usuário assista.
 
 Foi inspirado em um protótipo realizado em outra disciplina para um aplicativo com mesmo nome porém com fluxo de utilização diferente.
 Protótipo: [Link de acesso ao figma](https://www.figma.com/proto/3BouSZzPDmVwEkjrNSf8zA/app-muuvie?node-id=344%3A6533&starting-point-node-id=344%3A6533)
