@@ -26,6 +26,7 @@ Protótipo: [Link de acesso ao figma](https://www.figma.com/proto/3BouSZzPDmVwEk
 Modelagem do escopo de forma gráfica, descrevendo as movimentações de dados e interações entre as interfaces do sistema.
 ![Diagrama de Contexto](Documentacao/DiagramaDeContexto.jpg)
 ## Diagrama de Contêiner
+Agrupamento dos componentes do sistema em contêiners, detalhando de maneira macro o sistema de software, exibindo as várias partes do mesmo e mostrando as decisões de tecnologias decididas.
 ![Diagrama de Conteiner](Documentacao/DiagramaDeConteiner.jpg)
 ## Diagramas de Componentes
 
