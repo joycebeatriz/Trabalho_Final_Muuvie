@@ -23,7 +23,7 @@ Protótipo: [Link de acesso ao figma](https://www.figma.com/proto/3BouSZzPDmVwEk
 - Pedro Paulo Oliveira Lopes - Matrícula 201905548
 
 ## Diagrama de contexto
-teste
+ESCREVE AQ PEDRO: Modelagem do escopo de forma gráfica. Descreve as movimentações de dados e interações entre as interfaces do sistema.
 ![Diagrama de Contexto](Documentacao/DiagramaDeContexto.jpg)
 ## Diagrama de Contêiner
 ![Diagrama de Conteiner](Documentacao/DiagramaDeConteiner.jpg)
