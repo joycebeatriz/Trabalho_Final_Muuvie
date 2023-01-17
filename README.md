@@ -1,11 +1,11 @@
-# muuvie
+# Muuvie
 Repositório criado para acompanhamento da disciplina de Design de Software, ministrada pelo professor <i>Fabio Lucena</i>.
 
-<br><b>Descrição</b></br>
-O objetivo deste projeto e o desenvolvimento de um aplicativo que indica filmes para o usuário, baseando-se em dados fornecidos pelos mesmos, informando a plataforma onde esse filme pode está disponível. Além disso, o aplicativo terá um registro de filmes já assistidos por meio de um sistema de avaliação.
+## Descrição
+O objetivo deste projeto é o desenvolvimento de um sistema que coleta dados de plataformas de streaming, sites de avaliações de séries e filmes e de redes sociais, auxiliando na criação de perfis personalizados dos usuários das plataformas de streaming, a fim das mesmas direcionar seus serviços e propagandas de maneira mais eficaz.
 <br>
 
-## muuvie - Seu filme em alguns muu's
+## Muuvie - Seu filme em alguns muu's
 Quem nunca se sentou na sala ou se deitou na cama e foi colocar um filme para assistir e se perguntou: _Qual o filme vou assistir hoje?_ E a partir desse momento você fica minutos, dependendo até horas passando por um catálogo até decidir o que assistir.
 
 A ideia do nosso projeto é criar um serviço para ser utilizado por Plataforma de Streams. Neste serviço, através o recebimento de dados básicos demográficos de um determinado usuário e seu histórico de filmes assistidos, recomendaremos o filme ideal para que o usuário assista.
