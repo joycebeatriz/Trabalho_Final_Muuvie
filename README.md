@@ -16,11 +16,11 @@ Protótipo: [Link de acesso ao figma](https://www.figma.com/proto/3BouSZzPDmVwEk
 <br>
 
 ## Discentes
-Bruna Do Espirito Santo Sousa - Matrícula 202107999; <br>
-Joyce Beatriz Ferreira Da Costa Silva - Matrícula 201910890; <br>
-Layane Grazielle Souza Dias - Matrícula 202004763; <br>
-Pedro Ivo Santana Melo - Matrícula 202004776; <br>
-Pedro Paulo Oliveira Lopes - Matrícula 201905548
+- Bruna Do Espirito Santo Sousa - Matrícula 202107999<br>
+- Joyce Beatriz Ferreira Da Costa Silva - Matrícula 201910890<br>
+- Layane Grazielle Souza Dias - Matrícula 202004763<br>
+- Pedro Ivo Santana Melo - Matrícula 202004776<br>
+- Pedro Paulo Oliveira Lopes - Matrícula 201905548
 
 ## Diagrama de contexto
 ![Diagrama de Contexto](Documentacao/DiagramaDeContexto.jpg)
