@@ -32,7 +32,7 @@ Agrupamento dos componentes do sistema em contêiners, detalhando de maneira mac
 Componentes do Serviço para coleta e alocação de dados do Scraper de Redes Sociais.
 ![Diagrama de Componentes](Documentacao/DiagramaDeComponentesScraper.jpg)
 
-Componentes do Serviço de definamento dos dados coletados pelo Scraper de Redes Sociais. Esse dados serão utilizados para treinamento da Inteligência Artificial.
+Componentes do Serviço de refinamento dos dados coletados pelo Scraper de Redes Sociais. Esse dados serão utilizados para treinamento da Inteligência Artificial.
 
 <b> Limpeza de Dados:</b> deve buscar por dados que contenham pelo menos 1 filme, informação de perfil demográfico e a qualificação sobre o(s) filme(s). Na ausência de alguma dessas informações será feito o descarte.
 
